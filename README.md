@@ -1,6 +1,6 @@
 # GraphiQL for Tipe
 
-This is a React app with [GraphiQL](https://github.com/graphql/graphiql) IDE to browse [Tipe](tipe.io)'s schema and try out GraphQL queries.
+This is a React app with [GraphiQL](https://github.com/graphql/graphiql) IDE to browse [Tipe](https://tipe.io/)'s schema and try out GraphQL queries.
 
 ## Install
 
@@ -16,8 +16,10 @@ This is a React app with [GraphiQL](https://github.com/graphql/graphiql) IDE to 
   ```
 
 3. Set up Tipe credentials:
-  1. get your project's API key and ORG secret ([instructions](https://docs.tipe.io/docs/graphql-api-request)),
-  2. paste them into the `src/index.js`
+
+    1. get your project's API key and ORG secret ([instructions](https://docs.tipe.io/docs/graphql-api-request)),
+    2. paste them into the `src/index.js`
+
 4. Start the app:
   ```bash
   $ yarn start # or npm start
