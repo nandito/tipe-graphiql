@@ -1,6 +1,7 @@
 # GraphiQL for Tipe
 
 This is a React app with [GraphiQL](https://github.com/graphql/graphiql) IDE to browse [Tipe](https://tipe.io/)'s schema and try out GraphQL queries.
+Check out [my blog post](https://nandito.info/2018/02/05/set-up-graphiql-ide-for-tipe/) for more details.
 
 ## Install
 
